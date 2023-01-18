@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+body {
+  font-family: Arial;
+}
+
+#p1{
+    color: darkgreen;
+}
+
+rect{
+    fill: red;
+}
